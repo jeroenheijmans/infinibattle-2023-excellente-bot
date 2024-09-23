@@ -2,6 +2,10 @@
 
 Templated bot that uses an Excel spreadsheet to play "[Barrage Stratego](https://www.ultraboardgames.com/stratego/barrage-stratego.php)" in the 2023 Infinibattle.
 
+## ⚠️ Notice about updates
+
+Note that this repository is provided "as-is" and will most likely not receive any (security) updates.
+
 ## Description
 
 The "Infinibattle" is a pseudo-yearly competition at Infi.
